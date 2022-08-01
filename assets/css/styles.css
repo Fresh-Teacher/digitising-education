@@ -1,0 +1,14 @@
+body {
+}
+
+.btn {
+  border-radius: 10px;
+  padding-bottom: 0px;
+  margin-right: 5px;
+}
+
+.navbar {
+  background: linear-gradient(black 26%, #ffd600 60%, #ff0f00 84%);
+  border-bottom-style: none;
+}
+
